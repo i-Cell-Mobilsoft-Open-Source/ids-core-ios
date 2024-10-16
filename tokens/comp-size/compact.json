@@ -1,0 +1,52 @@
+{
+  "comp": {
+    "size": {
+      "icon": {
+        "size": {
+          "smallCollection": {
+            "height": {
+              "value": "{smc.reference.container.size.height.16}",
+              "type": "number"
+            },
+            "width": {
+              "value": "{smc.reference.container.size.width.16}",
+              "type": "number"
+            }
+          },
+          "bigCollection": {
+            "height": {
+              "value": "{smc.reference.container.size.height.40}",
+              "type": "number"
+            },
+            "width": {
+              "value": "{smc.reference.container.size.width.40}",
+              "type": "number"
+            }
+          }
+        },
+        "typography": {
+          "smallCollection": {
+            "font-size": {
+              "value": "{smc.reference.typography.font-size.16}",
+              "type": "number"
+            },
+            "line-height": {
+              "value": "{smc.reference.typography.line-height.16}",
+              "type": "number"
+            }
+          },
+          "bigCollection": {
+            "font-size": {
+              "value": "{smc.reference.typography.font-size.40}",
+              "type": "number"
+            },
+            "line-height": {
+              "value": "{smc.reference.typography.line-height.40}",
+              "type": "number"
+            }
+          }
+        }
+      }
+    }
+  }
+}
