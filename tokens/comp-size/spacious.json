@@ -1,0 +1,165 @@
+{
+  "comp": {
+    "size": {
+      "dialog": {
+        "header": {
+          "title": {
+            "typography": {
+              "font-family": {
+                "value": "{smc.reference.typography.font-family.default}",
+                "type": "text"
+              },
+              "font-size": {
+                "value": "{smc.reference.typography.font-size.28}",
+                "type": "number"
+              },
+              "line-height": {
+                "value": "{smc.reference.typography.line-height.36}",
+                "type": "number"
+              },
+              "font-weight": {
+                "value": "{smc.reference.typography.font-weight.Bold}",
+                "type": "number"
+              },
+              "letter-spacing": {
+                "value": "{smc.reference.typography.letter-spacing.default}",
+                "type": "number"
+              }
+            }
+          },
+          "subtitle": {
+            "typography": {
+              "font-family": {
+                "value": "{smc.reference.typography.font-family.default}",
+                "type": "text"
+              },
+              "font-size": {
+                "value": "{smc.reference.typography.font-size.16}",
+                "type": "number"
+              },
+              "line-height": {
+                "value": "{smc.reference.typography.line-height.24}",
+                "type": "number"
+              },
+              "font-weight": {
+                "value": "{smc.reference.typography.font-weight.Regular}",
+                "type": "number"
+              },
+              "letter-spacing": {
+                "value": "{smc.reference.typography.letter-spacing.default}",
+                "type": "number"
+              }
+            }
+          },
+          "size": {
+            "padding-x": {
+              "value": "{smc.reference.container.padding.none}",
+              "type": "number"
+            },
+            "padding-y": {
+              "value": "{smc.reference.container.padding.none}",
+              "type": "number"
+            },
+            "gap": {
+              "value": "{smc.reference.container.gap.8}",
+              "type": "number"
+            }
+          }
+        },
+        "container": {
+          "size": {
+            "padding-x": {
+              "value": "{smc.reference.container.padding.24}",
+              "type": "number"
+            },
+            "padding-y": {
+              "value": "{smc.reference.container.padding.24}",
+              "type": "number"
+            },
+            "border-width": {
+              "value": "{smc.reference.container.border-width.none}",
+              "type": "number"
+            },
+            "border-radius": {
+              "value": "{smc.reference.container.border-radius.xl}",
+              "type": "number"
+            },
+            "gap": {
+              "value": "{smc.reference.container.gap.24}",
+              "type": "number"
+            },
+            "width": {
+              "value": "{smc.reference.container.size.width.800}",
+              "type": "number"
+            },
+            "min-height": {
+              "value": "{smc.reference.container.size.height.256}",
+              "type": "number"
+            }
+          }
+        },
+        "content": {
+          "fixed": {
+            "size": {
+              "padding-x": {
+                "value": "{smc.reference.container.padding.none}",
+                "type": "number"
+              },
+              "padding-y": {
+                "value": "{smc.reference.container.padding.none}",
+                "type": "number"
+              }
+            }
+          },
+          "scrollable": {
+            "size": {
+              "padding-x": {
+                "value": "{smc.reference.container.padding.none}",
+                "type": "number"
+              },
+              "padding-y": {
+                "value": "{smc.reference.container.padding.24}",
+                "type": "number"
+              },
+              "border-width": {
+                "value": "{smc.reference.container.border-width.sm}",
+                "type": "number"
+              }
+            }
+          }
+        },
+        "footer": {
+          "padding-x": {
+            "value": "{smc.reference.container.padding.none}",
+            "type": "number"
+          },
+          "padding-y": {
+            "value": "{smc.reference.container.padding.none}",
+            "type": "number"
+          },
+          "gap": {
+            "value": "{smc.reference.container.gap.8}",
+            "type": "number"
+          }
+        },
+        "backdrop": {
+          "size": {
+            "padding-x": {
+              "value": "{smc.reference.container.padding.72}",
+              "type": "number",
+              "description": "In this case the spacious size is full width. This number represents the padding of the entire screen of the device."
+            },
+            "padding-y": {
+              "value": "{smc.reference.container.padding.72}",
+              "type": "number"
+            },
+            "opacity": {
+              "value": "{smc.reference.container.color.opacity.backdrop}",
+              "type": "number"
+            }
+          }
+        }
+      }
+    }
+  }
+}
