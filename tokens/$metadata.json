@@ -1,0 +1,17 @@
+{
+  "tokenSetOrder": [
+    "base/base",
+    "smc-colors/light",
+    "smc-colors/dark",
+    "smc-reference/smc-reference",
+    "smc-layout/medium",
+    "smc-layout/large",
+    "smc-layout/xlarge",
+    "smc-layout/small",
+    "comp-size/dense",
+    "comp-size/compact",
+    "comp-size/comfortable",
+    "comp-size/spacious",
+    "comp-color/component"
+  ]
+}
