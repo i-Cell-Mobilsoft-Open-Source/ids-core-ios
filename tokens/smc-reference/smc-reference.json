@@ -3458,16 +3458,6 @@
             "type": "text"
           }
         },
-        "iconset": {
-          "default": {
-            "value": "{base.typography.font-family.IdsFonticon}",
-            "type": "text"
-          },
-          "custom": {
-            "value": "{base.typography.font-family.MaterialIcons}",
-            "type": "text"
-          }
-        },
         "font-size": {
           "8": {
             "value": "{base.dimension.80}",
@@ -3658,6 +3648,16 @@
           "loosest": {
             "value": "{base.em.050}",
             "type": "number"
+          }
+        },
+        "iconset": {
+          "default": {
+            "value": "{base.typography.font-family.IdsFonticon}",
+            "type": "text"
+          },
+          "custom": {
+            "value": "{base.typography.font-family.MaterialIcons}",
+            "type": "text"
           }
         }
       },
