@@ -7,7 +7,7 @@
           "type": "color"
         },
         "default": {
-          "value": "{base.color.Slate.950}",
+          "value": "{base.color.Slate.956}",
           "type": "color"
         },
         "darker-10": {
@@ -107,10 +107,6 @@
         "variant": {
           "default": {
             "value": "{base.color.Slate.600}",
-            "type": "color"
-          },
-          "lighter-30": {
-            "value": "{base.color.Slate.500}",
             "type": "color"
           }
         }
