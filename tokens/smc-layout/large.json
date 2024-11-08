@@ -20,7 +20,7 @@
             "type": "number"
           }
         },
-        "headline": {
+        "heading": {
           "font-family": {
             "value": "{smc.reference.typography.font-family.default}",
             "type": "text"
@@ -74,7 +74,7 @@
             "type": "number"
           }
         },
-        "heading": {
+        "headline": {
           "font-family": {
             "value": "{smc.reference.typography.font-family.default}",
             "type": "text"
@@ -84,7 +84,7 @@
             "type": "number"
           },
           "line-height": {
-            "value": "{smc.reference.typography.line-height.28}",
+            "value": "{smc.reference.typography.line-height.32}",
             "type": "number"
           },
           "letter-spacing": {
@@ -92,16 +92,22 @@
             "type": "number"
           }
         },
-        "iconset": {
-          "default": {
-            "font-size": {
-              "value": "{smc.reference.typography.font-size.20}",
-              "type": "number"
-            },
-            "line-height": {
-              "value": "{smc.reference.typography.line-height.20}",
-              "type": "number"
-            }
+        "title": {
+          "font-family": {
+            "value": "{smc.reference.typography.font-family.default}",
+            "type": "text"
+          },
+          "font-size": {
+            "value": "{smc.reference.typography.font-size.18}",
+            "type": "number"
+          },
+          "line-height": {
+            "value": "{smc.reference.typography.line-height.24}",
+            "type": "number"
+          },
+          "letter-spacing": {
+            "value": "{smc.reference.typography.letter-spacing.default}",
+            "type": "number"
           }
         }
       }
