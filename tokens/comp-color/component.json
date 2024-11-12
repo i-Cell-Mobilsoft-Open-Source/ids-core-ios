@@ -22,12 +22,6 @@
           "color": {
             "fg": {
               "icon": {
-                "light": {
-                  "default": {
-                    "value": "{smc.reference.container.color.fg.surface.darker-60}",
-                    "type": "color"
-                  }
-                },
                 "dark": {
                   "default": {
                     "value": "{smc.reference.container.color.fg.dark.default}",
@@ -99,12 +93,6 @@
               }
             },
             "bg": {
-              "light": {
-                "default": {
-                  "value": "{smc.reference.container.color.bg.surface.lighter-10}",
-                  "type": "color"
-                }
-              },
               "dark": {
                 "default": {
                   "value": "{smc.reference.container.color.bg.dark.default}",
@@ -137,12 +125,6 @@
               }
             },
             "border": {
-              "light": {
-                "default": {
-                  "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                  "type": "color"
-                }
-              },
               "dark": {
                 "default": {
                   "value": "{smc.reference.container.color.border.surface.transparent.0}",
