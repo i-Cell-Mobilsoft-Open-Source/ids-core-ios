@@ -8,10 +8,10 @@
     "smc-layout/medium",
     "smc-layout/large",
     "smc-layout/xlarge",
-    "comp-color/component",
     "comp-size/compact",
     "comp-size/comfortable",
     "comp-size/spacious",
-    "comp-size/dense"
+    "comp-size/dense",
+    "comp-color/component"
   ]
 }

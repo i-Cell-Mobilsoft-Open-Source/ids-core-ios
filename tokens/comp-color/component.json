@@ -10,17 +10,29 @@
                   "default": {
                     "value": "{smc.reference.container.color.bg.surface.darker-10}",
                     "type": "color"
+                  },
+                  "disabled": {
+                    "value": "{smc.reference.container.color.bg.disabled.default}",
+                    "type": "color"
                   }
                 },
                 "primary": {
                   "default": {
                     "value": "{smc.reference.container.color.bg.primary.default}",
                     "type": "color"
+                  },
+                  "disabled": {
+                    "value": "{smc.reference.container.color.bg.disabled.default}",
+                    "type": "color"
                   }
                 },
                 "light": {
                   "default": {
                     "value": "{smc.reference.container.color.bg.surface.fixed.lighter-10}",
+                    "type": "color"
+                  },
+                  "disabled": {
+                    "value": "{smc.reference.container.color.bg.disabled.default}",
                     "type": "color"
                   }
                 }
@@ -41,7 +53,11 @@
                     "value": "{smc.reference.container.color.fg.surface.darker-95}",
                     "type": "color"
                   },
-                  "disabled": {
+                  "default-disabled": {
+                    "value": "{smc.reference.container.color.fg.disabled.default}",
+                    "type": "color"
+                  },
+                  "active-disabled": {
                     "value": "{smc.reference.container.color.fg.disabled.default}",
                     "type": "color"
                   }
@@ -55,7 +71,11 @@
                     "value": "{smc.reference.container.color.fg.primary.default}",
                     "type": "color"
                   },
-                  "disabled": {
+                  "default-disabled": {
+                    "value": "{smc.reference.container.color.fg.disabled.default}",
+                    "type": "color"
+                  },
+                  "active-disabled": {
                     "value": "{smc.reference.container.color.fg.disabled.default}",
                     "type": "color"
                   }
@@ -69,7 +89,11 @@
                     "value": "{smc.reference.container.color.fg.surface.lighter-10}",
                     "type": "color"
                   },
-                  "disabled": {
+                  "default-disabled": {
+                    "value": "{smc.reference.container.color.fg.disabled.default}",
+                    "type": "color"
+                  },
+                  "active-disabled": {
                     "value": "{smc.reference.container.color.fg.disabled.default}",
                     "type": "color"
                   }
@@ -80,17 +104,29 @@
                   "active": {
                     "value": "{smc.reference.container.color.bg.surface.variant.lighter-30}",
                     "type": "color"
+                  },
+                  "active-disabled": {
+                    "value": "{smc.reference.container.color.bg.surface.darker-30}",
+                    "type": "color"
                   }
                 },
                 "primary": {
                   "active": {
                     "value": "{smc.reference.container.color.bg.surface.variant.lighter-30}",
                     "type": "color"
+                  },
+                  "active-disabled": {
+                    "value": "{smc.reference.container.color.bg.surface.darker-30}",
+                    "type": "color"
                   }
                 },
                 "light": {
                   "active": {
                     "value": "{smc.reference.container.color.bg.surface.fixed.darker-90}",
+                    "type": "color"
+                  },
+                  "active-disabled": {
+                    "value": "{smc.reference.container.color.bg.surface.darker-30}",
                     "type": "color"
                   }
                 }
