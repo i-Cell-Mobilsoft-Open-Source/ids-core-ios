@@ -848,6 +848,98 @@
             "type": "color"
           }
         }
+      },
+      "highlight": {
+        "lighter-50": {
+          "value": "{base.color.Cyan.950}",
+          "type": "color"
+        },
+        "lighter-40": {
+          "value": "{base.color.Cyan.900}",
+          "type": "color"
+        },
+        "lighter-30": {
+          "value": "{base.color.Cyan.800}",
+          "type": "color"
+        },
+        "lighter-20": {
+          "value": "{base.color.Cyan.700}",
+          "type": "color"
+        },
+        "lighter-10": {
+          "value": "{base.color.Cyan.600}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{base.color.Cyan.400}",
+          "type": "color"
+        },
+        "darker-10": {
+          "value": "{base.color.Cyan.300}",
+          "type": "color"
+        },
+        "darker-20": {
+          "value": "{base.color.Cyan.200}",
+          "type": "color"
+        },
+        "darker-30": {
+          "value": "{base.color.Cyan.100}",
+          "type": "color"
+        },
+        "darker-40": {
+          "value": "{base.color.Cyan.100}",
+          "type": "color"
+        },
+        "darker-50": {
+          "value": "{base.color.Cyan.50}",
+          "type": "color"
+        },
+        "fixed": {
+          "lighter-50": {
+            "value": "{base.color.Cyan.50}",
+            "type": "color"
+          },
+          "lighter-40": {
+            "value": "{base.color.Cyan.100}",
+            "type": "color"
+          },
+          "lighter-30": {
+            "value": "{base.color.Cyan.200}",
+            "type": "color"
+          },
+          "lighter-20": {
+            "value": "{base.color.Cyan.300}",
+            "type": "color"
+          },
+          "lighter-10": {
+            "value": "{base.color.Cyan.400}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{base.color.Cyan.500}",
+            "type": "color"
+          },
+          "darker-10": {
+            "value": "{base.color.Cyan.600}",
+            "type": "color"
+          },
+          "darker-20": {
+            "value": "{base.color.Cyan.700}",
+            "type": "color"
+          },
+          "darker-30": {
+            "value": "{base.color.Cyan.800}",
+            "type": "color"
+          },
+          "darker-40": {
+            "value": "{base.color.Cyan.900}",
+            "type": "color"
+          },
+          "darker-50": {
+            "value": "{base.color.Cyan.950}",
+            "type": "color"
+          }
+        }
       }
     }
   }
