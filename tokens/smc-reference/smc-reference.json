@@ -2772,7 +2772,7 @@
               "value": "{base.color.transparent}",
               "type": "color"
             },
-            "hightlight": {
+            "highlight": {
               "lighter-50": {
                 "value": "{smc.colors.highlight.lighter-50}",
                 "type": "color"
