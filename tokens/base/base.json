@@ -1187,6 +1187,60 @@
             "value": "#000000f2",
             "type": "color"
           }
+        },
+        "DarkCool": {
+          "50": {
+            "value": "#0206170d",
+            "type": "color"
+          },
+          "100": {
+            "value": "#0206171a",
+            "type": "color"
+          },
+          "150": {
+            "value": "#02061726",
+            "type": "color"
+          },
+          "200": {
+            "value": "#02061733",
+            "type": "color"
+          },
+          "250": {
+            "value": "#02061740",
+            "type": "color"
+          },
+          "300": {
+            "value": "#0206174d",
+            "type": "color"
+          },
+          "400": {
+            "value": "#02061766",
+            "type": "color"
+          },
+          "500": {
+            "value": "#02061780",
+            "type": "color"
+          },
+          "600": {
+            "value": "#02061799",
+            "type": "color"
+          },
+          "700": {
+            "value": "#020617b3",
+            "type": "color"
+          },
+          "800": {
+            "value": "#020617cc",
+            "type": "color"
+          },
+          "900": {
+            "value": "#020617e6",
+            "type": "color"
+          },
+          "950": {
+            "value": "#020617f2",
+            "type": "color"
+          }
         }
       }
     },
@@ -1387,6 +1441,10 @@
       },
       "4000": {
         "value": 400,
+        "type": "number"
+      },
+      "5120": {
+        "value": 512,
         "type": "number"
       },
       "6000": {
