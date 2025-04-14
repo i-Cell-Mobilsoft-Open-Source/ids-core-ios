@@ -688,55 +688,55 @@
       "opacity": {
         "light": {
           "50": {
-            "value": "{base.color.Opacity.Cool.50}",
+            "value": "{base.color.Opacity.Light.50}",
             "type": "color"
           },
           "100": {
-            "value": "{base.color.Opacity.Cool.100}",
+            "value": "{base.color.Opacity.Light.100}",
             "type": "color"
           },
           "150": {
-            "value": "{base.color.Opacity.Cool.150}",
+            "value": "{base.color.Opacity.Light.150}",
             "type": "color"
           },
           "200": {
-            "value": "{base.color.Opacity.Cool.200}",
+            "value": "{base.color.Opacity.Light.200}",
             "type": "color"
           },
           "250": {
-            "value": "{base.color.Opacity.Cool.250}",
+            "value": "{base.color.Opacity.Light.250}",
             "type": "color"
           },
           "300": {
-            "value": "{base.color.Opacity.Cool.300}",
+            "value": "{base.color.Opacity.Light.300}",
             "type": "color"
           },
           "400": {
-            "value": "{base.color.Opacity.Cool.400}",
+            "value": "{base.color.Opacity.Light.400}",
             "type": "color"
           },
           "500": {
-            "value": "{base.color.Opacity.Cool.500}",
+            "value": "{base.color.Opacity.Light.500}",
             "type": "color"
           },
           "600": {
-            "value": "{base.color.Opacity.Cool.600}",
+            "value": "{base.color.Opacity.Light.600}",
             "type": "color"
           },
           "700": {
-            "value": "{base.color.Opacity.Cool.700}",
+            "value": "{base.color.Opacity.Light.700}",
             "type": "color"
           },
           "800": {
-            "value": "{base.color.Opacity.Cool.800}",
+            "value": "{base.color.Opacity.Light.800}",
             "type": "color"
           },
           "900": {
-            "value": "{base.color.Opacity.Cool.900}",
+            "value": "{base.color.Opacity.Light.900}",
             "type": "color"
           },
           "950": {
-            "value": "{base.color.Opacity.Cool.950}",
+            "value": "{base.color.Opacity.Light.950}",
             "type": "color"
           }
         },
@@ -846,6 +846,66 @@
           "950": {
             "value": "{base.color.Opacity.Light.950}",
             "type": "color"
+          }
+        },
+        "dark-cool": {
+          "50": {
+            "value": "{base.color.Opacity.Light.50}",
+            "type": "color"
+          },
+          "100": {
+            "value": "{base.color.Opacity.Light.100}",
+            "type": "color"
+          },
+          "150": {
+            "value": "{base.color.Opacity.Light.150}",
+            "type": "color"
+          },
+          "200": {
+            "value": "{base.color.Opacity.Light.200}",
+            "type": "color"
+          },
+          "250": {
+            "value": "{base.color.Opacity.Light.250}",
+            "type": "color"
+          },
+          "300": {
+            "value": "{base.color.Opacity.Light.300}",
+            "type": "color"
+          },
+          "400": {
+            "value": "{base.color.Opacity.Light.400}",
+            "type": "color"
+          },
+          "500": {
+            "value": "{base.color.Opacity.Light.500}",
+            "type": "color"
+          },
+          "600": {
+            "value": "{base.color.Opacity.Light.600}",
+            "type": "color"
+          },
+          "700": {
+            "value": "{base.color.Opacity.Light.700}",
+            "type": "color"
+          },
+          "800": {
+            "value": "{base.color.Opacity.Light.800}",
+            "type": "color"
+          },
+          "900": {
+            "value": "{base.color.Opacity.Light.900}",
+            "type": "color"
+          },
+          "950": {
+            "value": "{base.color.Opacity.Light.950}",
+            "type": "color"
+          },
+          "variant": {
+            "default": {
+              "value": "{base.color.Opacity.DarkCool.700}",
+              "type": "color"
+            }
           }
         }
       },

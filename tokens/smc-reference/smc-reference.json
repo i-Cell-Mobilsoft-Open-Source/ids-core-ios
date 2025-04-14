@@ -131,8 +131,12 @@
               }
             },
             "backdrop": {
-              "value": "{base.percentage.250}",
-              "type": "number"
+              "value": "{base.percentage.1000}",
+              "type": "number",
+              "default": {
+                "value": "{smc.colors.opacity.dark-cool.variant.default}",
+                "type": "color"
+              }
             }
           },
           "bg": {
@@ -3270,6 +3274,10 @@
             },
             "256": {
               "value": "{base.dimension.2560}",
+              "type": "number"
+            },
+            "512": {
+              "value": "{base.dimension.5120}",
               "type": "number"
             },
             "none": {
