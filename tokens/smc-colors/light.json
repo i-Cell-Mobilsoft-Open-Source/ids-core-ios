@@ -847,6 +847,66 @@
             "value": "{base.color.Opacity.Dark.950}",
             "type": "color"
           }
+        },
+        "dark-cool": {
+          "50": {
+            "value": "{base.color.Opacity.DarkCool.50}",
+            "type": "color"
+          },
+          "100": {
+            "value": "{base.color.Opacity.DarkCool.100}",
+            "type": "color"
+          },
+          "150": {
+            "value": "{base.color.Opacity.DarkCool.150}",
+            "type": "color"
+          },
+          "200": {
+            "value": "{base.color.Opacity.DarkCool.200}",
+            "type": "color"
+          },
+          "250": {
+            "value": "{base.color.Opacity.DarkCool.250}",
+            "type": "color"
+          },
+          "300": {
+            "value": "{base.color.Opacity.DarkCool.300}",
+            "type": "color"
+          },
+          "400": {
+            "value": "{base.color.Opacity.DarkCool.400}",
+            "type": "color"
+          },
+          "500": {
+            "value": "{base.color.Opacity.DarkCool.500}",
+            "type": "color"
+          },
+          "600": {
+            "value": "{base.color.Opacity.DarkCool.600}",
+            "type": "color"
+          },
+          "700": {
+            "value": "{base.color.Opacity.DarkCool.700}",
+            "type": "color"
+          },
+          "800": {
+            "value": "{base.color.Opacity.DarkCool.800}",
+            "type": "color"
+          },
+          "900": {
+            "value": "{base.color.Opacity.DarkCool.900}",
+            "type": "color"
+          },
+          "950": {
+            "value": "{base.color.Opacity.DarkCool.950}",
+            "type": "color"
+          },
+          "variant": {
+            "default": {
+              "value": "{base.color.Opacity.DarkCool.250}",
+              "type": "color"
+            }
+          }
         }
       },
       "highlight": {
