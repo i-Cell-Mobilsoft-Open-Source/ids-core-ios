@@ -131,8 +131,6 @@
               }
             },
             "backdrop": {
-              "value": "{base.percentage.1000}",
-              "type": "number",
               "default": {
                 "value": "{smc.colors.opacity.dark-cool.variant.default}",
                 "type": "color"
