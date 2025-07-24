@@ -137,6 +137,10 @@
                 "value": "{smc.colors.opacity.dark-cool.variant.default}",
                 "type": "color"
               }
+            },
+            "backdrop-percentage": {
+              "value": "{base.percentage.1000}",
+              "type": "number"
             }
           },
           "bg": {
@@ -626,6 +630,52 @@
               "darker-10": {
                 "value": "{smc.colors.success.darker-10}",
                 "type": "color"
+              },
+              "fixed": {
+                "lighter-50": {
+                  "value": "{smc.colors.success.fixed.lighter-50}",
+                  "type": "color"
+                },
+                "lighter-40": {
+                  "value": "{smc.colors.success.fixed.lighter-40}",
+                  "type": "color"
+                },
+                "darker-50": {
+                  "value": "{smc.colors.success.fixed.darker-50}",
+                  "type": "color"
+                },
+                "lighter-30": {
+                  "value": "{smc.colors.success.fixed.lighter-30}",
+                  "type": "color"
+                },
+                "lighter-20": {
+                  "value": "{smc.colors.success.fixed.lighter-20}",
+                  "type": "color"
+                },
+                "lighter-10": {
+                  "value": "{smc.colors.success.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "default": {
+                  "value": "{smc.colors.success.fixed.default}",
+                  "type": "color"
+                },
+                "darker-10": {
+                  "value": "{smc.colors.success.fixed.darker-10}",
+                  "type": "color"
+                },
+                "darker-20": {
+                  "value": "{smc.colors.success.fixed.darker-20}",
+                  "type": "color"
+                },
+                "darker-30": {
+                  "value": "{smc.colors.success.fixed.darker-30}",
+                  "type": "color"
+                },
+                "darker-40": {
+                  "value": "{smc.colors.success.fixed.darker-40}",
+                  "type": "color"
+                }
               }
             },
             "error": {
@@ -672,6 +722,52 @@
               "darker-10": {
                 "value": "{smc.colors.error.darker-10}",
                 "type": "color"
+              },
+              "fixed": {
+                "lighter-50": {
+                  "value": "{smc.colors.error.fixed.lighter-50}",
+                  "type": "color"
+                },
+                "lighter-40": {
+                  "value": "{smc.colors.error.fixed.lighter-40}",
+                  "type": "color"
+                },
+                "darker-50": {
+                  "value": "{smc.colors.error.fixed.darker-50}",
+                  "type": "color"
+                },
+                "lighter-30": {
+                  "value": "{smc.colors.error.fixed.lighter-30}",
+                  "type": "color"
+                },
+                "lighter-20": {
+                  "value": "{smc.colors.error.fixed.lighter-20}",
+                  "type": "color"
+                },
+                "lighter-10": {
+                  "value": "{smc.colors.error.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "default": {
+                  "value": "{smc.colors.error.fixed.darker-10}",
+                  "type": "color"
+                },
+                "darker-10": {
+                  "value": "{smc.colors.error.fixed.darker-10}",
+                  "type": "color"
+                },
+                "darker-20": {
+                  "value": "{smc.colors.error.fixed.darker-20}",
+                  "type": "color"
+                },
+                "darker-30": {
+                  "value": "{smc.colors.error.fixed.darker-30}",
+                  "type": "color"
+                },
+                "darker-40": {
+                  "value": "{smc.colors.error.fixed.darker-40}",
+                  "type": "color"
+                }
               }
             },
             "warning": {
@@ -718,6 +814,52 @@
               "darker-10": {
                 "value": "{smc.colors.warning.darker-10}",
                 "type": "color"
+              },
+              "fixed": {
+                "lighter-50": {
+                  "value": "{smc.colors.warning.fixed.lighter-50}",
+                  "type": "color"
+                },
+                "lighter-40": {
+                  "value": "{smc.colors.warning.fixed.lighter-40}",
+                  "type": "color"
+                },
+                "darker-50": {
+                  "value": "{smc.colors.warning.fixed.darker-50}",
+                  "type": "color"
+                },
+                "lighter-30": {
+                  "value": "{smc.colors.warning.fixed.lighter-30}",
+                  "type": "color"
+                },
+                "lighter-20": {
+                  "value": "{smc.colors.warning.fixed.lighter-20}",
+                  "type": "color"
+                },
+                "lighter-10": {
+                  "value": "{smc.colors.warning.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "default": {
+                  "value": "{smc.colors.warning.fixed.default}",
+                  "type": "color"
+                },
+                "darker-10": {
+                  "value": "{smc.colors.warning.fixed.darker-10}",
+                  "type": "color"
+                },
+                "darker-20": {
+                  "value": "{smc.colors.warning.fixed.darker-20}",
+                  "type": "color"
+                },
+                "darker-30": {
+                  "value": "{smc.colors.warning.fixed.darker-30}",
+                  "type": "color"
+                },
+                "darker-40": {
+                  "value": "{smc.colors.warning.fixed.darker-40}",
+                  "type": "color"
+                }
               }
             },
             "info": {
@@ -764,6 +906,52 @@
               "darker-10": {
                 "value": "{smc.colors.info.darker-10}",
                 "type": "color"
+              },
+              "fixed": {
+                "lighter-50": {
+                  "value": "{smc.colors.info.fixed.lighter-50}",
+                  "type": "color"
+                },
+                "lighter-40": {
+                  "value": "{smc.colors.info.fixed.lighter-40}",
+                  "type": "color"
+                },
+                "darker-50": {
+                  "value": "{smc.colors.info.fixed.darker-50}",
+                  "type": "color"
+                },
+                "lighter-30": {
+                  "value": "{smc.colors.info.fixed.lighter-30}",
+                  "type": "color"
+                },
+                "lighter-20": {
+                  "value": "{smc.colors.info.fixed.lighter-20}",
+                  "type": "color"
+                },
+                "lighter-10": {
+                  "value": "{smc.colors.info.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "default": {
+                  "value": "{smc.colors.info.fixed.default}",
+                  "type": "color"
+                },
+                "darker-10": {
+                  "value": "{smc.colors.info.fixed.darker-10}",
+                  "type": "color"
+                },
+                "darker-20": {
+                  "value": "{smc.colors.info.fixed.darker-20}",
+                  "type": "color"
+                },
+                "darker-30": {
+                  "value": "{smc.colors.info.fixed.darker-30}",
+                  "type": "color"
+                },
+                "darker-40": {
+                  "value": "{smc.colors.info.fixed.darker-40}",
+                  "type": "color"
+                }
               }
             },
             "disabled": {
@@ -1570,6 +1758,56 @@
               "lighter-50": {
                 "value": "{smc.colors.success.lighter-50}",
                 "type": "color"
+              },
+              "fixed": {
+                "lighter-100": {
+                  "value": "{smc.colors.surface.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "lighter-50": {
+                  "value": "{smc.colors.success.fixed.lighter-50}",
+                  "type": "color"
+                },
+                "darker-40": {
+                  "value": "{smc.colors.success.fixed.darker-40}",
+                  "type": "color"
+                },
+                "darker-50": {
+                  "value": "{smc.colors.success.fixed.darker-50}",
+                  "type": "color"
+                },
+                "lighter-40": {
+                  "value": "{smc.colors.success.fixed.lighter-40}",
+                  "type": "color"
+                },
+                "lighter-30": {
+                  "value": "{smc.colors.success.fixed.lighter-30}",
+                  "type": "color"
+                },
+                "lighter-20": {
+                  "value": "{smc.colors.success.fixed.lighter-20}",
+                  "type": "color"
+                },
+                "lighter-10": {
+                  "value": "{smc.colors.success.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "default": {
+                  "value": "{smc.colors.success.fixed.default}",
+                  "type": "color"
+                },
+                "darker-10": {
+                  "value": "{smc.colors.success.fixed.darker-10}",
+                  "type": "color"
+                },
+                "darker-20": {
+                  "value": "{smc.colors.success.fixed.darker-20}",
+                  "type": "color"
+                },
+                "darker-30": {
+                  "value": "{smc.colors.success.fixed.darker-30}",
+                  "type": "color"
+                }
               }
             },
             "error": {
@@ -1614,12 +1852,62 @@
                 "type": "color"
               },
               "lighter-40": {
-                "value": "{smc.colors.error.lighter-30}",
+                "value": "{smc.colors.error.lighter-40}",
                 "type": "color"
               },
               "lighter-50": {
-                "value": "{smc.colors.error.lighter-30}",
+                "value": "{smc.colors.error.lighter-50}",
                 "type": "color"
+              },
+              "fixed": {
+                "lighter-100": {
+                  "value": "{smc.colors.surface.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "lighter-50": {
+                  "value": "{smc.colors.error.fixed.lighter-50}",
+                  "type": "color"
+                },
+                "darker-40": {
+                  "value": "{smc.colors.error.fixed.darker-40}",
+                  "type": "color"
+                },
+                "darker-50": {
+                  "value": "{smc.colors.error.fixed.darker-50}",
+                  "type": "color"
+                },
+                "lighter-40": {
+                  "value": "{smc.colors.error.fixed.lighter-40}",
+                  "type": "color"
+                },
+                "lighter-30": {
+                  "value": "{smc.colors.error.fixed.lighter-30}",
+                  "type": "color"
+                },
+                "lighter-20": {
+                  "value": "{smc.colors.error.fixed.lighter-20}",
+                  "type": "color"
+                },
+                "lighter-10": {
+                  "value": "{smc.colors.error.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "default": {
+                  "value": "{smc.colors.error.fixed.default}",
+                  "type": "color"
+                },
+                "darker-10": {
+                  "value": "{smc.colors.error.fixed.darker-10}",
+                  "type": "color"
+                },
+                "darker-20": {
+                  "value": "{smc.colors.error.fixed.darker-20}",
+                  "type": "color"
+                },
+                "darker-30": {
+                  "value": "{smc.colors.error.fixed.darker-30}",
+                  "type": "color"
+                }
               }
             },
             "warning": {
@@ -1670,6 +1958,56 @@
               "lighter-50": {
                 "value": "{smc.colors.warning.lighter-50}",
                 "type": "color"
+              },
+              "fixed": {
+                "lighter-100": {
+                  "value": "{smc.colors.surface.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "lighter-50": {
+                  "value": "{smc.colors.warning.fixed.lighter-50}",
+                  "type": "color"
+                },
+                "darker-40": {
+                  "value": "{smc.colors.warning.fixed.darker-40}",
+                  "type": "color"
+                },
+                "darker-50": {
+                  "value": "{smc.colors.warning.fixed.darker-50}",
+                  "type": "color"
+                },
+                "lighter-40": {
+                  "value": "{smc.colors.warning.fixed.lighter-40}",
+                  "type": "color"
+                },
+                "lighter-30": {
+                  "value": "{smc.colors.warning.fixed.lighter-30}",
+                  "type": "color"
+                },
+                "lighter-20": {
+                  "value": "{smc.colors.warning.fixed.lighter-20}",
+                  "type": "color"
+                },
+                "lighter-10": {
+                  "value": "{smc.colors.warning.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "default": {
+                  "value": "{smc.colors.warning.fixed.default}",
+                  "type": "color"
+                },
+                "darker-10": {
+                  "value": "{smc.colors.warning.fixed.darker-10}",
+                  "type": "color"
+                },
+                "darker-20": {
+                  "value": "{smc.colors.warning.fixed.darker-20}",
+                  "type": "color"
+                },
+                "darker-30": {
+                  "value": "{smc.colors.warning.fixed.darker-30}",
+                  "type": "color"
+                }
               }
             },
             "info": {
@@ -1720,6 +2058,56 @@
               "lighter-50": {
                 "value": "{smc.colors.info.lighter-50}",
                 "type": "color"
+              },
+              "fixed": {
+                "lighter-100": {
+                  "value": "{smc.colors.surface.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "lighter-50": {
+                  "value": "{smc.colors.info.fixed.lighter-50}",
+                  "type": "color"
+                },
+                "darker-40": {
+                  "value": "{smc.colors.info.fixed.darker-40}",
+                  "type": "color"
+                },
+                "darker-50": {
+                  "value": "{smc.colors.info.fixed.darker-50}",
+                  "type": "color"
+                },
+                "lighter-40": {
+                  "value": "{smc.colors.info.fixed.lighter-40}",
+                  "type": "color"
+                },
+                "lighter-30": {
+                  "value": "{smc.colors.info.fixed.lighter-30}",
+                  "type": "color"
+                },
+                "lighter-20": {
+                  "value": "{smc.colors.info.fixed.lighter-20}",
+                  "type": "color"
+                },
+                "lighter-10": {
+                  "value": "{smc.colors.info.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "default": {
+                  "value": "{smc.colors.info.fixed.default}",
+                  "type": "color"
+                },
+                "darker-10": {
+                  "value": "{smc.colors.info.fixed.darker-10}",
+                  "type": "color"
+                },
+                "darker-20": {
+                  "value": "{smc.colors.info.fixed.darker-20}",
+                  "type": "color"
+                },
+                "darker-30": {
+                  "value": "{smc.colors.info.fixed.darker-30}",
+                  "type": "color"
+                }
               }
             },
             "disabled": {
@@ -2482,6 +2870,52 @@
               "lighter-50": {
                 "value": "{smc.colors.success.lighter-50}",
                 "type": "color"
+              },
+              "fixed": {
+                "lighter-50": {
+                  "value": "{smc.colors.success.fixed.lighter-50}",
+                  "type": "color"
+                },
+                "lighter-40": {
+                  "value": "{smc.colors.success.fixed.lighter-40}",
+                  "type": "color"
+                },
+                "darker-50": {
+                  "value": "{smc.colors.success.fixed.darker-50}",
+                  "type": "color"
+                },
+                "lighter-30": {
+                  "value": "{smc.colors.success.fixed.lighter-30}",
+                  "type": "color"
+                },
+                "lighter-20": {
+                  "value": "{smc.colors.success.fixed.lighter-20}",
+                  "type": "color"
+                },
+                "lighter-10": {
+                  "value": "{smc.colors.success.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "default": {
+                  "value": "{smc.colors.success.fixed.default}",
+                  "type": "color"
+                },
+                "darker-10": {
+                  "value": "{smc.colors.success.fixed.darker-10}",
+                  "type": "color"
+                },
+                "darker-20": {
+                  "value": "{smc.colors.success.fixed.darker-20}",
+                  "type": "color"
+                },
+                "darker-30": {
+                  "value": "{smc.colors.success.fixed.darker-30}",
+                  "type": "color"
+                },
+                "darker-40": {
+                  "value": "{smc.colors.success.fixed.darker-40}",
+                  "type": "color"
+                }
               }
             },
             "error": {
@@ -2528,6 +2962,52 @@
               "lighter-50": {
                 "value": "{smc.colors.error.lighter-50}",
                 "type": "color"
+              },
+              "fixed": {
+                "lighter-50": {
+                  "value": "{smc.colors.error.fixed.lighter-50}",
+                  "type": "color"
+                },
+                "lighter-40": {
+                  "value": "{smc.colors.error.fixed.lighter-40}",
+                  "type": "color"
+                },
+                "darker-50": {
+                  "value": "{smc.colors.error.fixed.darker-50}",
+                  "type": "color"
+                },
+                "lighter-30": {
+                  "value": "{smc.colors.error.fixed.lighter-30}",
+                  "type": "color"
+                },
+                "lighter-20": {
+                  "value": "{smc.colors.error.fixed.lighter-20}",
+                  "type": "color"
+                },
+                "lighter-10": {
+                  "value": "{smc.colors.error.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "default": {
+                  "value": "{smc.colors.error.fixed.default}",
+                  "type": "color"
+                },
+                "darker-10": {
+                  "value": "{smc.colors.error.fixed.darker-10}",
+                  "type": "color"
+                },
+                "darker-20": {
+                  "value": "{smc.colors.error.fixed.darker-20}",
+                  "type": "color"
+                },
+                "darker-30": {
+                  "value": "{smc.colors.error.fixed.darker-30}",
+                  "type": "color"
+                },
+                "darker-40": {
+                  "value": "{smc.colors.error.fixed.darker-40}",
+                  "type": "color"
+                }
               }
             },
             "warning": {
@@ -2574,6 +3054,52 @@
               "lighter-10": {
                 "value": "{smc.colors.warning.lighter-10}",
                 "type": "color"
+              },
+              "fixed": {
+                "lighter-50": {
+                  "value": "{smc.colors.warning.fixed.lighter-50}",
+                  "type": "color"
+                },
+                "lighter-40": {
+                  "value": "{smc.colors.warning.fixed.lighter-40}",
+                  "type": "color"
+                },
+                "darker-50": {
+                  "value": "{smc.colors.warning.fixed.darker-50}",
+                  "type": "color"
+                },
+                "lighter-30": {
+                  "value": "{smc.colors.warning.fixed.lighter-30}",
+                  "type": "color"
+                },
+                "lighter-20": {
+                  "value": "{smc.colors.warning.fixed.lighter-20}",
+                  "type": "color"
+                },
+                "lighter-10": {
+                  "value": "{smc.colors.warning.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "default": {
+                  "value": "{smc.colors.warning.fixed.default}",
+                  "type": "color"
+                },
+                "darker-10": {
+                  "value": "{smc.colors.warning.fixed.darker-10}",
+                  "type": "color"
+                },
+                "darker-20": {
+                  "value": "{smc.colors.warning.fixed.darker-20}",
+                  "type": "color"
+                },
+                "darker-30": {
+                  "value": "{smc.colors.warning.fixed.darker-30}",
+                  "type": "color"
+                },
+                "darker-40": {
+                  "value": "{smc.colors.warning.fixed.darker-40}",
+                  "type": "color"
+                }
               }
             },
             "info": {
@@ -2620,6 +3146,52 @@
               "lighter-50": {
                 "value": "{smc.colors.info.lighter-50}",
                 "type": "color"
+              },
+              "fixed": {
+                "lighter-50": {
+                  "value": "{smc.colors.info.fixed.lighter-50}",
+                  "type": "color"
+                },
+                "lighter-40": {
+                  "value": "{smc.colors.info.fixed.lighter-40}",
+                  "type": "color"
+                },
+                "darker-50": {
+                  "value": "{smc.colors.info.fixed.darker-50}",
+                  "type": "color"
+                },
+                "lighter-30": {
+                  "value": "{smc.colors.info.fixed.lighter-30}",
+                  "type": "color"
+                },
+                "lighter-20": {
+                  "value": "{smc.colors.info.fixed.lighter-20}",
+                  "type": "color"
+                },
+                "lighter-10": {
+                  "value": "{smc.colors.info.fixed.lighter-10}",
+                  "type": "color"
+                },
+                "default": {
+                  "value": "{smc.colors.info.fixed.default}",
+                  "type": "color"
+                },
+                "darker-10": {
+                  "value": "{smc.colors.info.fixed.darker-10}",
+                  "type": "color"
+                },
+                "darker-20": {
+                  "value": "{smc.colors.info.fixed.darker-20}",
+                  "type": "color"
+                },
+                "darker-30": {
+                  "value": "{smc.colors.info.fixed.darker-30}",
+                  "type": "color"
+                },
+                "darker-40": {
+                  "value": "{smc.colors.info.fixed.darker-40}",
+                  "type": "color"
+                }
               }
             },
             "disabled": {
