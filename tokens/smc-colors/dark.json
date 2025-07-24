@@ -720,47 +720,47 @@
         },
         "fixed": {
           "lighter-50": {
-            "value": "{base.color.Blue.950}",
-            "type": "color"
-          },
-          "lighter-40": {
-            "value": "{base.color.Blue.900}",
-            "type": "color"
-          },
-          "darker-50": {
             "value": "{base.color.Blue.50}",
             "type": "color"
           },
+          "lighter-40": {
+            "value": "{base.color.Blue.100}",
+            "type": "color"
+          },
+          "darker-50": {
+            "value": "{base.color.Blue.950}",
+            "type": "color"
+          },
           "lighter-30": {
-            "value": "{base.color.Blue.800}",
-            "type": "color"
-          },
-          "lighter-20": {
-            "value": "{base.color.Blue.700}",
-            "type": "color"
-          },
-          "lighter-10": {
-            "value": "{base.color.Blue.600}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{base.color.Blue.400}",
-            "type": "color"
-          },
-          "darker-10": {
-            "value": "{base.color.Blue.300}",
-            "type": "color"
-          },
-          "darker-20": {
             "value": "{base.color.Blue.200}",
             "type": "color"
           },
+          "lighter-20": {
+            "value": "{base.color.Blue.300}",
+            "type": "color"
+          },
+          "lighter-10": {
+            "value": "{base.color.Blue.400}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{base.color.Blue.500}",
+            "type": "color"
+          },
+          "darker-10": {
+            "value": "{base.color.Blue.600}",
+            "type": "color"
+          },
+          "darker-20": {
+            "value": "{base.color.Blue.700}",
+            "type": "color"
+          },
           "darker-30": {
-            "value": "{base.color.Blue.100}",
+            "value": "{base.color.Blue.800}",
             "type": "color"
           },
           "darker-40": {
-            "value": "{base.color.Blue.100}",
+            "value": "{base.color.Blue.900}",
             "type": "color"
           }
         }
