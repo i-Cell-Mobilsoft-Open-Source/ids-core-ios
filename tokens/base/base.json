@@ -1242,6 +1242,112 @@
             "type": "color"
           }
         }
+      },
+      "Social": {
+        "Facebook": {
+          "lighter-20": {
+            "value": "#619dff",
+            "type": "color"
+          },
+          "default": {
+            "value": "#0866ff",
+            "type": "color"
+          },
+          "darker-10": {
+            "value": "#0052d6",
+            "type": "color"
+          },
+          "darker-20": {
+            "value": "#0042ad",
+            "type": "color"
+          },
+          "lighter-30": {
+            "value": "#8db8ff",
+            "type": "color"
+          },
+          "lighter-10": {
+            "value": "#3481ff",
+            "type": "color"
+          }
+        },
+        "LinkedIn": {
+          "default": {
+            "value": "#0a66c2",
+            "type": "color"
+          },
+          "darker-20": {
+            "value": "#053059",
+            "type": "color"
+          },
+          "lighter-10": {
+            "value": "#378fe9",
+            "type": "color"
+          },
+          "lighter-20": {
+            "value": "#71b7fb",
+            "type": "color"
+          },
+          "darker-10": {
+            "value": "#004182",
+            "type": "color"
+          },
+          "lighter-30": {
+            "value": "#aad6ff",
+            "type": "color"
+          }
+        },
+        "Gmail": {
+          "lighter-10": {
+            "value": "#ff5647",
+            "type": "color"
+          },
+          "darker-20": {
+            "value": "#a61f14",
+            "type": "color"
+          },
+          "default": {
+            "value": "#ea4335",
+            "type": "color"
+          },
+          "lighter-20": {
+            "value": "#ff7c71",
+            "type": "color"
+          },
+          "lighter-30": {
+            "value": "#ffa29a",
+            "type": "color"
+          },
+          "darker-10": {
+            "value": "#c82f23",
+            "type": "color"
+          }
+        },
+        "Github": {
+          "darker-20": {
+            "value": "#191919",
+            "type": "color"
+          },
+          "darker-10": {
+            "value": "#262626",
+            "type": "color"
+          },
+          "default": {
+            "value": "#333333",
+            "type": "color"
+          },
+          "lighter-10": {
+            "value": "#3f3f3f",
+            "type": "color"
+          },
+          "lighter-30": {
+            "value": "#595959",
+            "type": "color"
+          },
+          "lighter-20": {
+            "value": "#4c4c4c",
+            "type": "color"
+          }
+        }
       }
     },
     "typography": {
@@ -1628,5 +1734,101 @@
         "type": "number"
       }
     }
+  },
+  "lighter-20 3": {
+    "value": "#619dff",
+    "type": "color"
+  },
+  "default 4": {
+    "value": "#0a66c2",
+    "type": "color"
+  },
+  "darker-20 4": {
+    "value": "#053059",
+    "type": "color"
+  },
+  "lighter-10 4": {
+    "value": "#378fe9",
+    "type": "color"
+  },
+  "lighter-10 2": {
+    "value": "#ff5647",
+    "type": "color"
+  },
+  "default 3": {
+    "value": "#0866ff",
+    "type": "color"
+  },
+  "darker-20": {
+    "value": "#191919",
+    "type": "color"
+  },
+  "darker-10": {
+    "value": "#262626",
+    "type": "color"
+  },
+  "default": {
+    "value": "#333333",
+    "type": "color"
+  },
+  "darker-10 3": {
+    "value": "#0052d6",
+    "type": "color"
+  },
+  "darker-20 2": {
+    "value": "#a61f14",
+    "type": "color"
+  },
+  "lighter-20 4": {
+    "value": "#71b7fb",
+    "type": "color"
+  },
+  "default 2": {
+    "value": "#ea4335",
+    "type": "color"
+  },
+  "lighter-20 2": {
+    "value": "#ff7c71",
+    "type": "color"
+  },
+  "lighter-30 3": {
+    "value": "#ffa29a",
+    "type": "color"
+  },
+  "lighter-10": {
+    "value": "#3f3f3f",
+    "type": "color"
+  },
+  "lighter-30 4": {
+    "value": "#595959",
+    "type": "color"
+  },
+  "darker-20 3": {
+    "value": "#0042ad",
+    "type": "color"
+  },
+  "lighter-30 2": {
+    "value": "#8db8ff",
+    "type": "color"
+  },
+  "darker-10 4": {
+    "value": "#004182",
+    "type": "color"
+  },
+  "lighter-10 3": {
+    "value": "#3481ff",
+    "type": "color"
+  },
+  "darker-10 2": {
+    "value": "#c82f23",
+    "type": "color"
+  },
+  "lighter-20": {
+    "value": "#4c4c4c",
+    "type": "color"
+  },
+  "lighter-30": {
+    "value": "#aad6ff",
+    "type": "color"
   }
 }
