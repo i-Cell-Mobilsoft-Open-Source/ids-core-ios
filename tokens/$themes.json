@@ -2881,7 +2881,8 @@
       "smc.colors.info.fixed.darker-10": "fd7e2201a55b31fc3e578552bee050161cdbd09a",
       "smc.colors.info.fixed.darker-20": "8382dbe5c4d9293f066955197007da5a791d150b",
       "smc.colors.info.fixed.darker-30": "be9af6f1a923233bb85cd92dd82854a53df5a8fd",
-      "smc.colors.info.fixed.darker-40": "12d7d0ae7c7ae90e0e573b15c88423d3d54c1220"
+      "smc.colors.info.fixed.darker-40": "12d7d0ae7c7ae90e0e573b15c88423d3d54c1220",
+      "smc.colors.surface.fixed.darker-100": "2127b52f128caec90040f13ddbd126933970088c"
     },
     "$figmaModeId": "2002:54",
     "$figmaCollectionId": "VariableCollectionId:2002:26188"
@@ -3176,7 +3177,8 @@
       "smc.colors.info.fixed.darker-10": "fd7e2201a55b31fc3e578552bee050161cdbd09a",
       "smc.colors.info.fixed.darker-20": "8382dbe5c4d9293f066955197007da5a791d150b",
       "smc.colors.info.fixed.darker-30": "be9af6f1a923233bb85cd92dd82854a53df5a8fd",
-      "smc.colors.info.fixed.darker-40": "12d7d0ae7c7ae90e0e573b15c88423d3d54c1220"
+      "smc.colors.info.fixed.darker-40": "12d7d0ae7c7ae90e0e573b15c88423d3d54c1220",
+      "smc.colors.surface.fixed.darker-100": "2127b52f128caec90040f13ddbd126933970088c"
     },
     "$figmaModeId": "2002:55",
     "$figmaCollectionId": "VariableCollectionId:2002:26188"
