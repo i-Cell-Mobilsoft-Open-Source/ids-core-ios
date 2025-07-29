@@ -102,6 +102,10 @@
           "darker-95": {
             "value": "{base.color.Slate.950}",
             "type": "color"
+          },
+          "darker-100": {
+            "value": "{base.color.dark}",
+            "type": "color"
           }
         },
         "variant": {
