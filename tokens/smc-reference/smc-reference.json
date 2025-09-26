@@ -4608,7 +4608,7 @@
         },
         "iconset": {
           "default": {
-            "value": "{base.typography.font-family.IdsFonticon}",
+            "value": "{base.typography.font-family.MaterialIcons}",
             "type": "text"
           },
           "custom": {
