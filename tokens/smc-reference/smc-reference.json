@@ -303,6 +303,14 @@
                 "lighter-30": {
                   "value": "{smc.colors.surface.variant.lighter-30}",
                   "type": "color"
+                },
+                "lighter-40": {
+                  "value": "{smc.colors.surface.variant.lighter-40}",
+                  "type": "color"
+                },
+                "darker-10": {
+                  "value": "{smc.colors.surface.variant.darker-10}",
+                  "type": "color"
                 }
               },
               "darker-40": {
