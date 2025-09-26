@@ -27,19 +27,19 @@
           "type": "color"
         },
         "darker-50": {
-          "value": "{base.color.Slate.500}",
-          "type": "color"
-        },
-        "darker-60": {
           "value": "{base.color.Slate.400}",
           "type": "color"
         },
-        "darker-70": {
+        "darker-60": {
           "value": "{base.color.Slate.300}",
           "type": "color"
         },
-        "darker-80": {
+        "darker-70": {
           "value": "{base.color.Slate.200}",
+          "type": "color"
+        },
+        "darker-80": {
+          "value": "{base.color.Slate.100}",
           "type": "color"
         },
         "darker-90": {
@@ -115,6 +115,14 @@
           },
           "lighter-30": {
             "value": "{base.color.Slate.500}",
+            "type": "color"
+          },
+          "lighter-40": {
+            "value": "{base.color.Slate.800}",
+            "type": "color"
+          },
+          "darker-10": {
+            "value": "{base.color.Slate.800}",
             "type": "color"
           }
         }
