@@ -116,6 +116,14 @@
           "lighter-30": {
             "value": "{base.color.light}",
             "type": "color"
+          },
+          "lighter-40": {
+            "value": "{base.color.light}",
+            "type": "color"
+          },
+          "darker-10": {
+            "value": "{base.color.Slate.50}",
+            "type": "color"
           }
         }
       },
