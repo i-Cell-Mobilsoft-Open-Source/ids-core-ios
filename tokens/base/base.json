@@ -1553,12 +1553,28 @@
         "value": 320,
         "type": "number"
       },
+      "3600": {
+        "value": 360,
+        "type": "number"
+      },
       "4000": {
         "value": 400,
         "type": "number"
       },
+      "4400": {
+        "value": 440,
+        "type": "number"
+      },
+      "4800": {
+        "value": 480,
+        "type": "number"
+      },
       "5120": {
         "value": 512,
+        "type": "number"
+      },
+      "5600": {
+        "value": 560,
         "type": "number"
       },
       "6000": {
