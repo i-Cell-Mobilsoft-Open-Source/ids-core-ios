@@ -1271,19 +1271,19 @@
                   "type": "color"
                 },
                 "darker-20": {
-                  "value": "{smc.colors.primary.fixed.darker-20}",
+                  "value": "{smc.colors.highlight.fixed.darker-20}",
                   "type": "color"
                 },
                 "darker-30": {
-                  "value": "{smc.colors.primary.fixed.darker-30}",
+                  "value": "{smc.colors.highlight.fixed.darker-30}",
                   "type": "color"
                 },
                 "darker-40": {
-                  "value": "{smc.colors.primary.fixed.darker-40}",
+                  "value": "{smc.colors.highlight.fixed.darker-40}",
                   "type": "color"
                 },
                 "darker-50": {
-                  "value": "{smc.colors.primary.fixed.darker-50}",
+                  "value": "{smc.colors.highlight.fixed.darker-50}",
                   "type": "color"
                 }
               }
@@ -3792,8 +3792,28 @@
               "value": "{base.dimension.3200}",
               "type": "number"
             },
+            "360": {
+              "value": "{base.dimension.3600}",
+              "type": "number"
+            },
             "400": {
               "value": "{base.dimension.4000}",
+              "type": "number"
+            },
+            "440": {
+              "value": "{base.dimension.4400}",
+              "type": "number"
+            },
+            "480": {
+              "value": "{base.dimension.4800}",
+              "type": "number"
+            },
+            "512": {
+              "value": "{base.dimension.5120}",
+              "type": "number"
+            },
+            "560": {
+              "value": "{base.dimension.5600}",
               "type": "number"
             },
             "600": {
@@ -4025,6 +4045,22 @@
             "value": "{base.dimension.320}",
             "type": "number"
           },
+          "40": {
+            "value": "{base.dimension.400}",
+            "type": "number"
+          },
+          "48": {
+            "value": "{base.dimension.480}",
+            "type": "number"
+          },
+          "56": {
+            "value": "{base.dimension.560}",
+            "type": "number"
+          },
+          "64": {
+            "value": "{base.dimension.640}",
+            "type": "number"
+          },
           "72": {
             "value": "{base.dimension.720}",
             "type": "number"
@@ -4065,6 +4101,18 @@
           },
           "32": {
             "value": "{base.dimension.320}",
+            "type": "number"
+          },
+          "40": {
+            "value": "{base.dimension.400}",
+            "type": "number"
+          },
+          "48": {
+            "value": "{base.dimension.480}",
+            "type": "number"
+          },
+          "56": {
+            "value": "{base.dimension.560}",
             "type": "number"
           },
           "none": {
